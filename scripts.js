@@ -15,13 +15,13 @@ let cardText = [
 
 ]
 let cardimage = [
-    '/images/welcome.png',
-    '/images/roundcrest.png',
-    '/images/combomark.png',
-    '/images/scripty.png',
-    '/images/labelmark.png',
-    '/images/starcombo.png',
-    '/images/simplecombo.png'
+    'images/welcome.png',
+    'images/roundcrest.png',
+    'images/combomark.png',
+    'images/scripty.png',
+    'images/labelmark.png',
+    'images/starcombo.png',
+    'images/simplecombo.png'
 ]
 
 const swap = (x) => {
